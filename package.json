@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Warn: no test specified\" && exit 0",
     "build": "mkdir -p build && cp -n README.md package.json *.js build/",
-    "test:build": "exit 0"
+    "test:build": "npm run build && exit 0"
   },
   "keywords": [],
   "author": "",
