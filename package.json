@@ -1,0 +1,24 @@
+{
+  "name": "mocked-mocha-runner",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "Helps to test Mocha reporters by simulating a test run without actually running Mocha",
+  "main": "mocked-mocha-runner.helper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/jamesmortensen/mocked-mocha-runner/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamesmortensen/mocked-mocha-runner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jamesmortensen/mocked-mocha-runner/issues"
+  },
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
