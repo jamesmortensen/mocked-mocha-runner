@@ -5,7 +5,8 @@
   "description": "Helps to test Mocha reporters by simulating a test run without actually running Mocha",
   "main": "mocked-mocha-runner.helper.js",
   "scripts": {
-    "test": "echo \"Warn: no test specified\" && exit 0"
+    "test": "echo \"Warn: no test specified\" && exit 0",
+    "test:build": "exit 0"
   },
   "keywords": [],
   "author": "",
