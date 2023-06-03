@@ -6,7 +6,9 @@
   "main": "mocked-mocha-runner.helper.js",
   "scripts": {
     "test": "echo \"Warn: no test specified\" && exit 0",
+    "build": "echo 0",
     "test:build": "exit 0"
+
   },
   "keywords": [],
   "author": "",
